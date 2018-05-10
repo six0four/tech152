@@ -35,6 +35,17 @@ Please print out (and staple) from Blackboard the Learning Materials > LABs > MA
 ### Print out lab for next class
 Please print out (and staple) from Blackboard the Learning Materials > LABs > Lab 1-Cable punch down.pdf
 
+### Lynda.com
+1. Visit [lynda.com](lynda.com) website
+2. Click 'Sign In' button
+3. Click Organization Login tab (NOT Individual Login)
+4. Enter 'www.humber.ca' under organization's URL
+5. Click 'Go' and you will be redirected to login.humber.ca
+6. Enter your Humber username and password and click 'LOGIN' button
+7. You will be redirected back to Lynda.com with full course access to create your own user name.
+8. Feel free to register via Toronto Public Library instead such that your access is not cut off when you graduate.
+9. Watch: [Electronic Foundations: Basic Circuits](https://www.lynda.com/Software-Development-tutorials/Electronics-Foundations-Basic-Circuits/507570-2.html)
+
 ### Master Signoff Sheet alternative
 | Lab # | Lab Name                     | Student Initials | Date | Professor Initials | Date |
 | ----- |----------                    | -----            | -    |-                   | -    |
