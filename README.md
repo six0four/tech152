@@ -6,9 +6,11 @@ Please let ali.owayid@humber.ca know the station identifier (e.g. J209A-N-011) a
 ### Short video and introductions
 [Reflective Learning](https://www.youtube.com/watch?v=kM-DXWEns2Y&t=28s)
 
-### Student Code of conduct Signature
+### Student Code of Conduct
+Please print out (and staple) from Blackboard the Learning Materials > LABs > MASTER SIGNOFF SHEET.pdf, read it and sign it.
 
 ### Print out lab for next class
+Please print out (and staple) from Blackboard the Learning Materials > LABs > Lab 1-Cable punch down.pdf
 
 ### Master Signoff Sheet alternative
 | Lab # | Lab Name                     | Student Initials | Date | Professor Initials | Date |
