@@ -27,5 +27,11 @@ Please print out (and staple) from Blackboard the Learning Materials > LABs > La
 | 11    | TCP Capture                  | -----            | -    |-                   | -    |
 
 ## Lab 1 Session
+Each pair should brinch a pair of needlenose plierssign out a BIX Punchdown Tool, 
 | Part Name | Student Name | Sign Out Student Initials | Date | Sign In Professor Initials | Date |
-| ----- |----------| -----  |-|-| -|
+| BIX Punchdown Tool |-    | -----                     |-     |-                           | -    |
+| Cable     |----------    | -----                     |-     |-                           | -    |
+| -----     |----------    | -----                     |-     |-                           | -    |
+| -----     |----------    | -----                     |-     |-                           | -    |
+| -----     |----------    | -----                     |-     |-                           | -    |
+| -----     |----------    | -----                     |-     |-                           | -    |
