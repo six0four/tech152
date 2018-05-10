@@ -27,11 +27,28 @@ Please print out (and staple) from Blackboard the Learning Materials > LABs > La
 | 11    | TCP Capture                  | -----            | -    |-                   | -    |
 
 ## Lab 1 Session
-Each pair should brinch a pair of needlenose plierssign out a BIX Punchdown Tool, 
+Each pair should bring
+1. A pair of needlenose pliers
+2. Ohm meter leads 
+3. Side cutters 
+4. Wire strippers
+and sign out a BIX Punchdown Tool from the parts crib.
+
 | Part Name | Student Name | Sign Out Student Initials | Date | Sign In Professor Initials | Date |
-| BIX Punchdown Tool |-    | -----                     |-     |-                           | -    |
+| BIX Block |-             | -----                     |-     |-                           | -    |
+| BIX Frame |-             | -----                     |-     |-                           | -    |
+| BIX Block |-             | -----                     |-     |-                           | -    |
+| BIX Frame |-             | -----                     |-     |-                           | -    |
+| BIX Block |-             | -----                     |-     |-                           | -    |
+| BIX Frame |-             | -----                     |-     |-                           | -    |
+| BIX Block |-             | -----                     |-     |-                           | -    |
+| BIX Frame |-             | -----                     |-     |-                           | -    |
+| BIX Block |-             | -----                     |-     |-                           | -    |
+| BIX Frame |-             | -----                     |-     |-                           | -    |
+| BIX Block |-             | -----                     |-     |-                           | -    |
+| BIX Frame |-             | -----                     |-     |-                           | -    |
 | Cable     |----------    | -----                     |-     |-                           | -    |
-| -----     |----------    | -----                     |-     |-                           | -    |
+|           |----------    | -----                     |-     |-                           | -    |
 | -----     |----------    | -----                     |-     |-                           | -    |
 | -----     |----------    | -----                     |-     |-                           | -    |
 | -----     |----------    | -----                     |-     |-                           | -    |
