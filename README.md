@@ -1,8 +1,13 @@
 # TECH 152
-## Reporting an Academic Computer Fault
+## Lab 0 Session
+### Reporting an Academic Computer Fault
 Please let ali.owayid@humber.ca know the station identifier (e.g. J209A-N-011) and the problem such that he can submit a service request, if the same problem persists - ask for a ticket number and let me know what it is.
 
-## Lab 0 Session
+### Student Code of conduct Signature
+
+### Print out lab for next class
+
+### Master Signoff Sheet alternative
 | Lab # | Lab Name                     | Student Initials | Date | Professor Initials | Date |
 | ----- |----------                    | -----            | -    |-                   | -    |
 | 1     | Punch-downs and Binder cables| -----            | -    |-                   | -    |
