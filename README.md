@@ -61,29 +61,59 @@ Please print out (and staple) from Blackboard the Learning Materials > LABs > La
 | 11    | TCP Capture                  | -----            | -    |-                   | -    |
 
 ## Lab 1 Session
-Each pair should bring
+Each pair should bring:
 1. A pair of needlenose pliers
 2. Ohm meter leads 
 3. Side cutters 
 4. Wire strippers
-and sign out a BIX Punchdown Tool from the parts crib.
-
+Each pair should sign out (from the parts crib) a:
+1. BIX Punchdown Tool.
+Each pair should sign out (from your professor):
+1. Cable
+2. BIX Block
+3. BIX Frame
+as per the below:
 | Part Name | Student Name | Sign Out Student Initials | Date | Sign In Professor Initials | Date |
 | -----     |----------    |      -----                | -----| -                          | -    |
-| BIX Block |-             | -----                     |-     |-                           | -    |
-| BIX Frame |-             | -----                     |-     |-                           | -    |
-| BIX Block |-             | -----                     |-     |-                           | -    |
-| BIX Frame |-             | -----                     |-     |-                           | -    |
-| BIX Block |-             | -----                     |-     |-                           | -    |
-| BIX Frame |-             | -----                     |-     |-                           | -    |
-| BIX Block |-             | -----                     |-     |-                           | -    |
-| BIX Frame |-             | -----                     |-     |-                           | -    |
-| BIX Block |-             | -----                     |-     |-                           | -    |
-| BIX Frame |-             | -----                     |-     |-                           | -    |
-| BIX Block |-             | -----                     |-     |-                           | -    |
-| BIX Frame |-             | -----                     |-     |-                           | -    |
-| Cable     |----------    | -----                     |-     |-                           | -    |
-|           |----------    | -----                     |-     |-                           | -    |
-| -----     |----------    | -----                     |-     |-                           | -    |
-| -----     |----------    | -----                     |-     |-                           | -    |
-| -----     |----------    | -----                     |-     |-                           | -    |
+| BIX Block |              |                           |      |                            |      |
+| BIX Frame |              |                           |      |                            |      |
+| Cable     |              |                           |      |                            |      |
+| BIX Block |              |                           |      |                            |      |
+| BIX Frame |              |                           |      |                            |      |
+| Cable     |              |                           |      |                            |      |
+| BIX Block |              |                           |      |                            |      |
+| BIX Frame |              |                           |      |                            |      |
+| Cable     |              |                           |      |                            |      |
+| BIX Block |              |                           |      |                            |      |
+| BIX Frame |              |                           |      |                            |      |
+| Cable     |              |                           |      |                            |      |
+| BIX Block |              |                           |      |                            |      |
+| BIX Frame |              |                           |      |                            |      |
+| Cable     |              |                           |      |                            |      |
+| BIX Block |              |                           |      |                            |      |
+| BIX Frame |              |                           |      |                            |      |
+| Cable     |              |                           |      |                            |      |
+| BIX Block |              |                           |      |                            |      |
+| BIX Frame |              |                           |      |                            |      |
+| Cable     |              |                           |      |                            |      |
+| BIX Block |              |                           |      |                            |      |
+| BIX Frame |              |                           |      |                            |      |
+| Cable     |              |                           |      |                            |      |
+| BIX Block |              |                           |      |                            |      |
+| BIX Frame |              |                           |      |                            |      |
+| Cable     |              |                           |      |                            |      |
+| BIX Block |              |                           |      |                            |      |
+| BIX Frame |              |                           |      |                            |      |
+| Cable     |              |                           |      |                            |      |
+| BIX Block |              |                           |      |                            |      |
+| BIX Frame |              |                           |      |                            |      |
+| Cable     |              |                           |      |                            |      |
+| BIX Block |              |                           |      |                            |      |
+| BIX Frame |              |                           |      |                            |      |
+| Cable     |              |                           |      |                            |      |
+| BIX Block |              |                           |      |                            |      |
+| BIX Frame |              |                           |      |                            |      |
+| Cable     |              |                           |      |                            |      |
+| BIX Block |              |                           |      |                            |      |
+| BIX Frame |              |                           |      |                            |      |
+| Cable     |              |                           |      |                            |      |
