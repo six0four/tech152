@@ -73,6 +73,7 @@ Each pair should sign out (from your professor):
 2. BIX Block
 3. BIX Frame
 as per the below:
+
 | Part Name | Student Name | Sign Out Student Initials | Date | Sign In Professor Initials | Date |
 | -----     |----------    |      -----                | -----| -                          | -    |
 | BIX Block |              |                           |      |                            |      |
