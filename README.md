@@ -1,4 +1,12 @@
 # TECH 152
+
+## Table of Contents
+0. [Lab 0 Session](#lab-0-session)
+1. [Lab 1 Session](#lab-1-session)
+2. [Lab 2 Session](#lab-2-session)
+3. [Lab 3 Session](#lab-3-session)
+4. [Lab 4 Session](#lab-4-session)
+
 ## Lab 0 Session
 ### Reporting an Academic Computer Fault
 Please let ali.owayid@humber.ca know the station identifier (e.g. J209A-N-011) and the problem such that he can submit a service request, if the same problem persists - ask for a ticket number and let me know what it is.
@@ -118,3 +126,6 @@ as per the below:
 | BIX Block |              |                           |      |                            |      |
 | BIX Frame |              |                           |      |                            |      |
 | Cable     |              |                           |      |                            |      |
+## Lab 2 Session
+## Lab 3 Session
+## Lab 4 Session
