@@ -36,7 +36,7 @@ Please print out (and staple) from Blackboard the Learning Materials > LABs > MA
 Please print out (and staple) from Blackboard the Learning Materials > LABs > Lab 1-Cable punch down.pdf
 
 ### Lynda.com
-1. Visit [lynda.com](lynda.com) website
+1. Visit [lynda.com](http://www.lynda.com) website
 2. Click 'Sign In' button
 3. Click Organization Login tab (NOT Individual Login)
 4. Enter 'www.humber.ca' under organization's URL
