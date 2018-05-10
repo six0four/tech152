@@ -69,6 +69,7 @@ Each pair should bring
 and sign out a BIX Punchdown Tool from the parts crib.
 
 | Part Name | Student Name | Sign Out Student Initials | Date | Sign In Professor Initials | Date |
+| -----     |----------    |                           | -----| -                          | -    |
 | BIX Block |-             | -----                     |-     |-                           | -    |
 | BIX Frame |-             | -----                     |-     |-                           | -    |
 | BIX Block |-             | -----                     |-     |-                           | -    |
