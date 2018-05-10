@@ -74,12 +74,15 @@ Each pair should bring:
 2. Ohm meter leads 
 3. Side cutters 
 4. Wire strippers
+
 Each pair should sign out (from the parts crib) a:
 1. BIX Punchdown Tool.
+
 Each pair should sign out (from your professor):
 1. Cable
 2. BIX Block
 3. BIX Frame
+
 as per the below:
 
 | Part Name | Student Name | Sign Out Student Initials | Date | Sign In Professor Initials | Date |
