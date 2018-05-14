@@ -69,11 +69,23 @@ Please print out (and staple) from Blackboard the Learning Materials > LABs > La
 | 11    | TCP Capture                  | -----            | -    |-                   | -    |
 
 ## Lab 1 Session
-Each pair should bring:
+The professor will:
+![5pairpunched](https://raw.githubusercontent.com/six0four/tech152/master/images/5pairpunched.jpg)
+![block](https://raw.githubusercontent.com/six0four/tech152/master/images/block.jpg)
+![bluegreenpairpunched](https://raw.githubusercontent.com/six0four/tech152/master/images/bluegreenpunched.jpg)
+![cupboard](https://raw.githubusercontent.com/six0four/tech152/master/images/cupboard.jpg)
+![frame](https://raw.githubusercontent.com/six0four/tech152/master/images/frame.jpg)
+![punchtool](https://raw.githubusercontent.com/six0four/tech152/master/images/punchtool.jpg)
+![signout](https://raw.githubusercontent.com/six0four/tech152/master/images/signout.jpg)
+![simplewire](https://raw.githubusercontent.com/six0four/tech152/master/images/simplewire.jpg)
+![zipper](https://raw.githubusercontent.com/six0four/tech152/master/images/zipper.jpg)
+
+Each pair of students will bring:
 1. A pair of needlenose pliers
 2. Ohm meter leads 
 3. Side cutters 
 4. Wire strippers
+5. Eyewear
 
 Each pair should sign out (from the parts crib) a:
 1. BIX Punchdown Tool.
