@@ -69,16 +69,13 @@ Please print out (and staple) from Blackboard the Learning Materials > LABs > La
 | 11    | TCP Capture                  | -----            | -    |-                   | -    |
 
 ## Lab 1 Session
-The professor will:
-![5pairpunched](https://raw.githubusercontent.com/six0four/tech152/master/images/5pairpunched.jpg)
-![block](https://raw.githubusercontent.com/six0four/tech152/master/images/block.jpg)
-![bluegreenpairpunched](https://raw.githubusercontent.com/six0four/tech152/master/images/bluegreenpunched.jpg)
-![cupboard](https://raw.githubusercontent.com/six0four/tech152/master/images/cupboard.jpg)
-![frame](https://raw.githubusercontent.com/six0four/tech152/master/images/frame.jpg)
-![punchtool](https://raw.githubusercontent.com/six0four/tech152/master/images/punchtool.jpg)
+The professor will sign out out the key:
 ![signout](https://raw.githubusercontent.com/six0four/tech152/master/images/signout.jpg)
-![simplewire](https://raw.githubusercontent.com/six0four/tech152/master/images/simplewire.jpg)
-![zipper](https://raw.githubusercontent.com/six0four/tech152/master/images/zipper.jpg)
+![cupboard](https://raw.githubusercontent.com/six0four/tech152/master/images/cupboard.jpg)
+
+Each pair should sign out (from the parts crib) a:
+1. BIX Punchdown Tool.
+![punchtool](https://raw.githubusercontent.com/six0four/tech152/master/images/punchtool.jpg)
 
 Each pair of students will bring:
 1. A pair of needlenose pliers
@@ -87,13 +84,23 @@ Each pair of students will bring:
 4. Wire strippers
 5. Eyewear
 
-Each pair should sign out (from the parts crib) a:
-1. BIX Punchdown Tool.
+To sign out a block:
+![block](https://raw.githubusercontent.com/six0four/tech152/master/images/block.jpg)
+Frame:
+![frame](https://raw.githubusercontent.com/six0four/tech152/master/images/frame.jpg)
+Simple wires:
+![simplewire](https://raw.githubusercontent.com/six0four/tech152/master/images/simplewire.jpg)
+Zippered cable:
+![zipper](https://raw.githubusercontent.com/six0four/tech152/master/images/zipper.jpg)
 
 Each pair should sign out (from your professor):
-1. Cable
+1. Zippered cable plus a couple of simple wires:
+![zipper](https://raw.githubusercontent.com/six0four/tech152/master/images/zipper.jpg)
+![simplewire](https://raw.githubusercontent.com/six0four/tech152/master/images/simplewire.jpg)
 2. BIX Block
-3. BIX Frame
+![block](https://raw.githubusercontent.com/six0four/tech152/master/images/block.jpg)
+3. BIX Frame:
+![frame](https://raw.githubusercontent.com/six0four/tech152/master/images/frame.jpg)
 
 as per the below:
 
@@ -141,6 +148,14 @@ as per the below:
 | BIX Block |              |                           |      |                            |      |
 | BIX Frame |              |                           |      |                            |      |
 | Cable     |              |                           |      |                            |      |
+
+Blue green punched for resistance measurement:
+![bluegreenpairpunched](https://raw.githubusercontent.com/six0four/tech152/master/images/bluegreenpunched.jpg)
+
+5 pair punched:
+![5pairpunched](https://raw.githubusercontent.com/six0four/tech152/master/images/5pairpunched.jpg)
+
+
 ## Lab 2 Session
 ## Lab 3 Session
 ## Lab 4 Session
