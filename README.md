@@ -69,7 +69,7 @@ Please print out (and staple) from Blackboard the Learning Materials > LABs > La
 | 11    | TCP Capture                  | -----            | -    |-                   | -    |
 
 ## Lab 1 Session
-The professor will sign out out the key:
+The professor will sign out out the key (from J215):
 ![signout](https://raw.githubusercontent.com/six0four/tech152/master/images/signout.jpg)
 ![cupboard](https://raw.githubusercontent.com/six0four/tech152/master/images/cupboard.jpg)
 
