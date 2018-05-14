@@ -84,15 +84,6 @@ Each pair of students will bring:
 4. Wire strippers
 5. Eyewear
 
-To sign out a block:
-![block](https://raw.githubusercontent.com/six0four/tech152/master/images/block.jpg)
-Frame:
-![frame](https://raw.githubusercontent.com/six0four/tech152/master/images/frame.jpg)
-Simple wires:
-![simplewire](https://raw.githubusercontent.com/six0four/tech152/master/images/simplewire.jpg)
-Zippered cable:
-![zipper](https://raw.githubusercontent.com/six0four/tech152/master/images/zipper.jpg)
-
 Each pair should sign out (from your professor):
 1. Zippered cable plus a couple of simple wires:
 ![zipper](https://raw.githubusercontent.com/six0four/tech152/master/images/zipper.jpg)
