@@ -197,6 +197,13 @@ initial their lab instructions.
 
 ![5pairpunched](https://raw.githubusercontent.com/six0four/tech152/master/images/5pairpunched.jpg)
 
+### Print out lab for next class
+
+Please print out (and staple) from Blackboard the Learning Materials \> LABs \>
+Lab 2-Serial Communication.pdf
+
+If it is not available yet, use Google to find the wiring connections of a DB9 to DB25 serial cable as well as the DB25 to DB25 (DTE to DTE) null modem wiring connections.
+
 Lab 2 Session
 -------------
 
@@ -205,3 +212,12 @@ Lab 3 Session
 
 Lab 4 Session
 -------------
+
+
+
+
+
+
+
+
+
