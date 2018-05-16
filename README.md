@@ -207,6 +207,13 @@ If it is not available yet, use Google to find the wiring connections of a DB9 t
 Lab 2 Session
 -------------
 
+For the second part of this lab each pair of students will be building a null modem cable akin to:
+![nullmodem](https://raw.githubusercontent.com/six0four/tech152/master/images/nullmodem.jpg)
+For this, a breakout box, two serial cables, a 9-25 pin adaptor:
+![9-25](https://raw.githubusercontent.com/six0four/tech152/master/images/9-25.jpg)
+and a 25-9 pin adaptor are needed - note that you may need a gender changer depending on the adaptor you receive:
+![25-9](https://raw.githubusercontent.com/six0four/tech152/master/images/25-9.jpg)
+
 Lab 3 Session
 -------------
 
