@@ -219,7 +219,11 @@ Lab 3 Session
 
 Lab 4 Session
 -------------
-
+1. Each pair should sign out a punch down tool and an additional ethernet patch cable.
+LabJackField
+![LabJackField](https://raw.githubusercontent.com/six0four/tech152/master/images/LabJackField.jpg)  
+Panel
+![Panel](https://raw.githubusercontent.com/six0four/tech152/master/images/Panel.jpg)  
 
 
 
